@@ -21,3 +21,4 @@ k+=2;
 printf("thje value of sine is %f is %f",x,s);
 printf("\n the lib fn of sin %f is %f\n",x,sin(p));
 }
+//ANY FUNCTION CALL REQUIRED????
